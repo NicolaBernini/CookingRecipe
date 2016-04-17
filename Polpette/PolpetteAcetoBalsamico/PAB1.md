@@ -14,8 +14,6 @@ Le quantità servono per capire le proporzioni
 | Prosciutto crudo |    100 g   |    |
 | Scalogno |    1   |    |
 | Aceto Balsamico |    6 cucchiai da cucina   |    |
-| Pepe |    qb   |    |
-| Olio |    qb   |    |
 
 Ingredienti qb 
 

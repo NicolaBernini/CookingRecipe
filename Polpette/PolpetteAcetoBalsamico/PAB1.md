@@ -35,3 +35,10 @@ Ingredienti suggeriti ma che non possiamo usare
 - Burro (30 g)
 
 
+## Riferimenti 
+
+Ricetta Originale presa da <a href="http://www.salepepe.it/ricette/secondi/di-carne/carni-miste/polpettine-aceto-balsamico/" target="_blank">Sale e Pepe</a>
+
+
+
+

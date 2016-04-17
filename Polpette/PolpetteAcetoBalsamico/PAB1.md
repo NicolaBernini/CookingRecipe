@@ -3,10 +3,35 @@
 
 ## Ingredienti 
 
-- Macinato 
+Le quantità servono per capire le proporzioni 
 
-| Tables   |      Are      |  Cool |
+| Ingediente   |      Quantità      |  Commento |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| Macinato |  200 g (indicativo) | Anzichè maiale meglio bovino |
+| Mortadella |    100 g   |    |
+| Uovo | 1 |   |
+| Pancarrè |    1 fetta   |    |
+| Prosciutto crudo |    100 g   |    |
+| Scalogno |    1   |    |
+| Aceto Balsamico |    6 cucchiai da cucina   |    |
+| Pepe |    qb   |    |
+| Olio |    qb   |    |
+
+Ingredienti qb 
+
+- Brodo Vegetale 
+- Olio Extravergine di Oliva 
+- Sale 
+- Pepe 
+- Noce Moscata 
+- Farina 
+
+
+
+Ingredienti suggeriti ma che non possiamo usare 
+
+- Parmigiano Reggiano (100 g)
+- Latte fresco (qb)
+- Burro (30 g)
+
+

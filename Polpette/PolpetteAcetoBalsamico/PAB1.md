@@ -6,7 +6,7 @@
 Le quantità servono per capire le proporzioni 
 
 | Ingediente   |      Quantità      |  Commento |
-|----------|:-------------:|------:|
+|:----------:|:-------------:|:------:|
 | Macinato |  200 g (indicativo) | Anzichè maiale meglio bovino |
 | Mortadella |    100 g   |    |
 | Uovo | 1 |   |
